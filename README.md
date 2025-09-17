@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>
-    I'm <a href="https://t.me/Alenka_Elhel" target="_blank">Alena Elhel</a><br>
+    I'M <a href="https://t.me/Alenka_Elhel" target="_blank">ALENA ELHEL</a><br>
     Frontend Developer from St. Petersburg<br>
     I turn the invisible into the visible. Through code.
   </strong>
