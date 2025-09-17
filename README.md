@@ -1,26 +1,33 @@
-## Hi there 👋
+<h2 align="center">Hi there 👋</h2>
 
-<h1 align="center">Hi there, I'm <a href="https://t.me/Alenka_Elhel" target="_blank">Alena Elhel</a> </h1>
+<p align="center">
+  <strong>
+    I'm <a href="https://t.me/Alenka_Elhel" target="_blank">Alena Elhel</a><br>
+    Frontend Developer from St. Petersburg<br>
+    I turn the invisible into the visible. Through code.
+  </strong>
+</p>
+
+### 🛠️ Tech stack I work with:
+
+- ⚛️ React / Next.js / Vue  
+- 💅 Tailwind / Bootstrap / pure CSS  
+- ⚙️ TypeScript / JavaScript  
+- 🌍 WordPress (frontend, layout)  
+- 🚀 Vite / Webpack  
+- 🎨 HTML, design blocks, responsive layouts  
+- 🌐 A bit of backend with Node.js + Express (still learning!)
+
+### 📬 Contact me
+
+- 🌱 I’m currently learning Node.js  
+- 📫 Email: alenka.elhel@gmail.com  
+- 💬 Telegram: [@Alenka_Elhel](https://t.me/Alenka_Elhel)
 
 
-### Hi there 👋, I'm [Alena Elhel](https://t.me/Alenka_Elhel)
-#### Превращаю невидимое в видимое. Через код.
-
-Skills: HTML / CSS / JavaScript / React / Vite / Next.js / WordPress (фронт, верстка) / Bootstrap 
-
-- 🌱 I’m currently learning Node.js 
-- 📫 How to reach me: 
-📩 alenka.elhel@gmail.com   
-💬 Telegram: [@Alenka_Elhel](https://t.me/Alenka_Elhel) 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ochumenno66)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/ochumenno66)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/ochumenno66)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/ochumenno66)  
 
 
 
